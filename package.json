@@ -1,5 +1,5 @@
 {
-  "name": "react-components",
+  "name": "@bsahbi/react-components",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,17 @@
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bsahbi/react-components.git"
+  },
   "keywords": [],
-  "author": "",
   "license": "ISC",
+  "author": "Sahbi Braham <sahbi.braham@gmail.com> (https://github.com/bsahi)",
+  "bugs": {
+    "url": "https://github.com/williambout/react-native-proximity/issues"
+  },
+  "homepage": "https://github.com/williambout/react-native-proximity",
   "peerDependencies": {
     "prop-types": "^15",
     "react": "^16",

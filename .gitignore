@@ -127,3 +127,6 @@ dist
 
 # Neutrino build directory
 build
+
+github-pat-token.txt
+react-components.zip
